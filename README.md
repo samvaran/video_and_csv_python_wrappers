@@ -6,6 +6,6 @@
 ### Instructions
 1. Clone to disk
 2. Ensure Python 3.5+, Numpy, and OpenCV 3.3+ are installed
-2. Run `python examples.py` and examine outputs
-3. Read through code and comments
+3. Run `python examples.py` and examine outputs
+4. Read through code and comments
 <img src="silkworm1_triple.png">
