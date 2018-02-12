@@ -7,3 +7,4 @@
 1. Clone to disk
 2. Run `python examples.py` and examine outputs
 3. Read through code and comments
+- <img src="silkworm1_triple.png" width="800px">
